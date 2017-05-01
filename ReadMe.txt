@@ -1,1 +1,3 @@
-This is the First ReadMe.
+This is a private repository.
+
+We can use this repository to share programs and data we find and develop throughout the summer. This is a good opportunity to learn how to use Git. Git is a very widely used form of version control. It will allow us to share R, SAS, data and other various files while simultaneously allowing us to edit each others code more easily.
