@@ -1,3 +1,3 @@
-This is a private repository.
+This is a public repository, do not post sensitive personal information in this repository.
 
 We can use this repository to share programs and data we find and develop throughout the summer. This is a good opportunity to learn how to use Git. Git is a very widely used form of version control. It will allow us to share R, SAS, data and other various files while simultaneously allowing us to edit each others code more easily.
